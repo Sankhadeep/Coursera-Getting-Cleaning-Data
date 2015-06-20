@@ -1,5 +1,5 @@
 #Introduction
-run_anaalysis.R performs the following functions:
+run_analysis.R performs the following functions:
 * Using It reads the test and the train data and stores it in respective data frames.
 * Using rbind(), similar data is combined and then stored in respective data frames.
 * It then extracts only the measurements on the mean and standard deviation for each measurement.
